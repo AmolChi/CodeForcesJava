@@ -28,5 +28,6 @@ public class MaximumSum {
         }
         for(long l:res)
             System.out.println(l);
+        sc.close();
     }
 }

@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TenzingAndTsondu",
+            "request": "launch",
+            "mainClass": "CodeTONRound5.TenzingAndTsondu",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "CypherShifer",
+            "request": "launch",
+            "mainClass": "Contest.CypherShifer",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "Contest150A",
+            "request": "launch",
+            "mainClass": "Contest150Div2.Contest150A",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "KeepItBeautiful",
+            "request": "launch",
+            "mainClass": "Contest150Div2.KeepItBeautiful",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "AForbiddenInteger",
+            "request": "launch",
+            "mainClass": "Round151.AForbiddenInteger",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "SumInBinaryTree",
+            "request": "launch",
+            "mainClass": "SumInBinaryTree",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSum",
+            "request": "launch",
+            "mainClass": "b1832.MaximumSum",
+            "projectName": "CodeForcesJava_ca2e5ebe"
+        }
+    ]
+}
